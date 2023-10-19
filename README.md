@@ -1,6 +1,6 @@
 # Timour Portfolio
 
-Welcome to my data portfolio! i document here a Summary of my Projects in the Devops, Cloud & Machine learning field
+Welcome to my data portfolio! i document here a Summary of my Projects in the Cloud, devops & Machine learning field
 
 ## 📚 Table of Contents
 - [Cloud](#Cloud)
