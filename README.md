@@ -5,7 +5,7 @@ Welcome to my data portfolio! i document here a Summary of my Projects in the De
 ## 📚 Table of Contents
 - [Cloud](#Cloud)
 - [Devops](#devops)
-- [React](#Javascript,#HTML,#CSS)
+- [React](#Javascript,#HTML,#Typescript)
 - [Python](#python)
 - [SQL]
 - 
