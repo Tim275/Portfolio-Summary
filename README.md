@@ -14,8 +14,9 @@ Welcome to my data portfolio! i document here a Summary of my Projects in the Cl
 
 | Project Link | Tools | Project Description | 
 |---|---|---|
-| 🌐 [Cloud Resume Challenge](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | AWS, HTML/CSS, JavaScript, Python, Serverless Framework, Git, GitHub | WS Lambda and API Gateway were used to create a serverless visitor counter, which was integrated into the website using JavaScript. DynamoDB was used to store the visitor count. The entire infrastructure was deployed using the Serverless Framework. Version control was managed with Git and GitHub. Unit tests were written in Python to ensure the functionality of the visitor counter. The website was distributed globally using AWS CloudFront. |
-|  [SERVERLESS ](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
+| 🌐 [Cloud Resume Challenge](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | AWS, HTML/CSS, JavaScript, Python, Serverless Framework, Git, GitHub | Developed and implemented an end-to-end ETL pipeline for processing NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
+|  [Serverless Stack/Serverless Application Web Application on AWS ](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | AWS (Lambda, API Gateway, DynamoDB), Serverless Framework, JavaScript, Typescript | The backend logic, written in Python, interacts with DynamoDB via Lambda functions. These functions are invoked by API Gateway endpoints, which are triggered by client-side JavaScript. The entire serverless infrastructure is defined and managed using the Serverless Framework, ensuring efficient deployment and scalability. This architecture demonstrates a cost-effective, scalable, and resilient approach to web application development in the cloud. |
+
 
 ***
 
