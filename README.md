@@ -8,7 +8,7 @@ Welcome to my data portfolio! i document here a Summary of my Projects in the Cl
 - [React](#React)
 - [Python](#python)
 - [SQL](#SQL)
-- [MachineLearning/Data science](#MachineLearning) .
+- [MachineLearning/Data Analys](#MachineLearning) .
 
 #  :cloud: Cloud
 
