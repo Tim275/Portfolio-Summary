@@ -7,7 +7,7 @@ Welcome to my data portfolio! i document here a Summary of my Projects in the Cl
 - [Devops](#devops)
 - [React](#React)
 - [Python](#python)
-- [SQL]
+- [SQL](#SQL)
 - [MachineLearning/Data science](#MachineLearning) .
 
 #  :cloud: Cloud
