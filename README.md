@@ -44,7 +44,7 @@ Welcome to my data portfolio! i document here a Summary of my Projects in the Cl
 
 other usefull things(for a quick view^^):
 
-<br /> [Deploying an EC2 Instance on AWS using Terrarform](https://github.com/Tim275/Deploy-a-Ec2-instance-in-Terrarform) <br />
-<br /> [Deploy-a-Ec2-Instance-in-a-VPC-not-default](https://github.com/Tim275/Deploy-a-Ec2-Instance-in-a-VPC-not-default-) <br />
+<p /> [Deploying an EC2 Instance on AWS using Terrarform](https://github.com/Tim275/Deploy-a-Ec2-instance-in-Terrarform) <p />
+<p/> [Deploy-a-Ec2-Instance-in-a-VPC-not-default](https://github.com/Tim275/Deploy-a-Ec2-Instance-in-a-VPC-not-default-) <p/>
 
 
