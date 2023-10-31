@@ -26,7 +26,7 @@ Welcome to my data portfolio! i document here a Summary of my Projects in the Cl
 
 ***
 
-# React  <i class="fa-brands fa-react" style="color: #16bddf;"></i>
+# React  ⚛️
 
 
 | Project Link | Tools | Project Description | 
