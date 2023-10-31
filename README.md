@@ -10,7 +10,7 @@ Welcome to my data portfolio! i document here a Summary of my Projects in the Cl
 - [SQL](#SQL)
 - [MachineLearning/Data Analys](#MachineLearning) .
 
-#  :cloud: Cloud
+# Cloud  :cloud: 
 
 | Project Link | Tools | Project Description | 
 |---|---|---|
