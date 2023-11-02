@@ -22,7 +22,7 @@ Welcome to my data portfolio! i document here a Summary of my Projects in the Cl
 
 ***
 
-# Devops
+# Devops :ship: :whale: :construction_worker:
 
 
 
