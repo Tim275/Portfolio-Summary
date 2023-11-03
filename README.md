@@ -33,7 +33,7 @@ Welcome to my data portfolio! i document here a Summary of my Projects in the Cl
 | Project Link | Tools | Project Description | 
 |---|---|---|
 | 📋 Taskmanager | AWS, HTML/CSS, JavaScript, Python, Serverless Framework, Git, GitHub | ddddddddddddddo. |
-|  :open_file_folder: [Serverless Stack/Serverless Application Web Application on AWS ](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | AWS (Lambda, API Gateway, DynamoDB), Serverless Framework, JavaScript, Typescript | The backend logic, written in Python, interacts with DynamoDB via Lambda functions. These functions are invoked by API Gateway endpoints, which are triggered by client-side JavaScript. The entire serverless infrastructure is defined and managed using the Serverless Framework, ensuring efficient deployment and scalability. This architecture demonstrates a cost-effective, scalable, and resilient approach to web application development in the cloud. |
+|  :open_file_folder: [Serverless Stack/Serverless Application Web Application on AWS ](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adption) | AWS (Lambda, API Gateway, DynamoDB), Serverless Framework, JavaScript, Typescript | The backend logic, written in Python, interacts with DynamoDB via Lambda functions. These functions are invoked by API Gateway endpoints, which are triggered by client-side JavaScript. The entire serverless infrastructure is defined and managed using the Serverless Framework, ensuring efficient deployment and scalability. This architecture demonstrates a cost-effective, scalable, and resilient approach to web application development in the cloud. |
 
 ***
 
