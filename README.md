@@ -6,9 +6,9 @@ Welcome to my data portfolio! i document here a Summary of my Projects in the Cl
 - [Cloud](#Cloud)
 - [Devops](#devops)
 - [React](#React)
-- [Python](#python)
 - [SQL](#SQL)
-- [MachineLearning/Data Analys](#MachineLearning) .
+ - [Python](#python)
+
 
 ***
 
@@ -49,7 +49,7 @@ Welcome to my data portfolio! i document here a Summary of my Projects in the Cl
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 📺 [TMDb Movie Analysis](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202%20-%20TMDB%20Movie%20Analysis.ipynb) |   Data Wrangling & EDA | I analysed more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | pandas, matplotlib |   
+| 💰  [Solary Analysis]([https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202%20-%20TMDB%20Movie%20Analysis.ipynb](https://github.com/Tim275/SalaryAnalysis/tree/main)) |   Data Wrangling & EDA | I analysed more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | pandas, matplotlib |   
 
 
 
@@ -59,4 +59,9 @@ other usefull things(for a quick view^^):
 
 <p><a href="https://github.com/Tim275/Deploy-a-Ec2-instance-in-Terrarform">Deploying an EC2 Instance on AWS using Terrarform</a></p>
 <p><a href="https://github.com/Tim275/Deploy-a-Ec2-Instance-in-a-VPC-not-default-">Deploy-a-Ec2-Instance-in-a-VPC-not-default</a></p>
+
+GitHub Copilot: If you're looking for a symbol to represent salary in your GitHub README.md file, you might consider using the dollar sign ($) or the bag of money emoji (💰). 
+
+Here's how you can do it:
+
 
