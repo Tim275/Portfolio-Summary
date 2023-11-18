@@ -33,7 +33,7 @@ Welcome to my data portfolio! i document here a Summary of my Projects in the Cl
 | Project Link | Tools | Project Description | 
 |---|---|---|
 | 📋 Taskmanager | AWS, HTML/CSS, JavaScript, Python, Serverless Framework, Git, GitHub | Simple Taskmanager in React ( like a todoLIST) |
-|  :open_file_folder: [Serverless Stack/Serverless Application Web Application on AWS ](https://github.com/Tim275/Reactapps/tree/main/wordcountANDchuckapi) | description coming soon... |
+|  [Word & Char Counter                                  + Chuck Norris API ](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adption) | description coming soon... |
 
 ***
 
