@@ -9,6 +9,8 @@ Welcome to my data portfolio! i document here a Summary of my Projects in the Cl
 - [SQL](#SQL)
  - [Python](#python)
 
+GitHub Copilot: Sure, here's a description for the Cloud Resume Challenge in a similar format:
+
 
 ***
 
@@ -16,7 +18,7 @@ Welcome to my data portfolio! i document here a Summary of my Projects in the Cl
 
 | Project Link | Tools | Project Description | 
 |---|---|---|
-| 🌐 [Cloud Resume Challenge](https://github.com/Tim275/MyResumeAWS) | AWS, HTML/CSS, JavaScript, Python, Serverless Framework, Git, GitHub | Developed and implemented an end-to-end ETL pipeline for processing NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
+| 🌩️ [Cloud Resume Challenge](https://github.com/Tim275/MyResumeAWS) |  AWS (S3, CloudFront, Lambda, DynamoDB), HTML, CSS, JavaScript, Python, GitHub Actions |  Building a resume website hosted on AWS. The project involves creating a static website using HTML, CSS, and JavaScript, hosting it on S3, delivering it through CloudFront, and adding a visitor counter using Lambda and DynamoDB. Infrastructure is managed as code and a CI/CD pipeline is set up using GitHub Actions. |
 |  :open_file_folder: [Serverless RestAPI with Typescript & DynamoDb (NoSQL) ]() | AWS (Lambda, API Gateway, DynamoDB), Serverless Framework, JavaScript, Typescript |     . The backend logic, written in Typescript, interacts with DynamoDB via several Lambda functions. These functions are invoked by API Gateway endpoints, which are triggered by client-side JavaScript. The entire serverless infrastructure is defined and managed using the Serverless Framework, ensuring efficient deployment and scalability. This architecture demonstrates a cost-effective, scalable, and resilient approach to web application development in the cloud. |
 
 
