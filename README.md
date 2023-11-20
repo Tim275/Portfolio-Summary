@@ -51,7 +51,7 @@ GitHub Copilot: Sure, here's a description for the Cloud Resume Challenge in a s
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 💰  [Solary Analysis]([https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202%20-%20TMDB%20Movie%20Analysis.ipynb](https://github.com/Tim275/SalaryAnalysis/tree/main)) |   Data Wrangling & EDA | I analysed more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | pandas, matplotlib |   
+| 💰  [Solary Analysis]([https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202%20-%20TMDB%20Movie%20Analysis.ipynb](https://github.com/Tim275/SalaryAnalysis/tree/main)) |   Data Data Analysis | ? | pandas, matplotlib |   
 
 
 
